@@ -5,6 +5,8 @@ This is the initial screen that shows the top 100 cryptocurrencies.
 
 ![Screenshot (274)](https://user-images.githubusercontent.com/94324724/209459977-b02ed126-6319-4d72-ad50-9e9cd890824e.png)
 
+The second view shows the favorites page.
+
 ![Screenshot (273)](https://user-images.githubusercontent.com/94324724/209459981-ff415e70-7bf1-4e36-ae21-afe81522792f.png)
 
 Longpress again to remove any item from the favorites.
