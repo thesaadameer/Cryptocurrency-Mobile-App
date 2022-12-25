@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="see_favorites">See Favorites</string>
+    <string name="see_all_coins">See All Coins</string>
+    <string name="are_you_sure_to_delete">Are you sure to delete?</string>
+    <string name="you_are_deleting_the_item_from_favorites">You are deleting the item from favorites</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">Okay</string>
+</resources>
